@@ -28,7 +28,7 @@ import config
 from utils import print_json
 
 
-API_TOKEN = 'XcCx2sSLAOIAAAAAAAA9AQCdMW0N7erQSo6KFnzV4A5ffhda7G-U2ZuKJA1YLfAk'
+API_TOKEN = '' # Edit your own Token
 
 
 logging.basicConfig(
